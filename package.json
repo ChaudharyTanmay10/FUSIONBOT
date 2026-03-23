@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "discord.js": "^14.25.1",
+    "libsodium-wrappers": "^0.8.2",
+    "lru-cache": "^11.2.7",
+    "nodemailer": "^8.0.3",
+    "opusscript": "^0.0.8"
+  }
+}

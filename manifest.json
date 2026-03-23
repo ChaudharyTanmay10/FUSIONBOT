@@ -1,0 +1,13 @@
+{
+  "name": "FusionMusic",
+  "short_name": "FUSION MUSIC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#fc3c44",
+  "icons": [{
+    "src": "https://cdn.discordapp.com/attachments/1479524006242549979/1485250262103887982/IMG_20260322_174353.jpg?ex=69c12e99&is=69bfdd19&hm=fe41547066ae7cf59435a5660934f00957db68279d0cd3b50275917e5d93879b&", 
+    "sizes": "512x512", 
+    "type": "image/jpeg"
+  }]
+}
